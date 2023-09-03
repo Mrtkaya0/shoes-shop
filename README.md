@@ -8,3 +8,4 @@
 # shoes
 # shoes
 # ayakkabı
+# shoes-shop
